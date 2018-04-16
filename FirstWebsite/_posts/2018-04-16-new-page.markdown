@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "A new page"
+date:   2018-04-16 12:10:00 +0530
+categories: jekyll update
+---
+<h1>Seems you have reached the second page of the WebSite.</h1>
+
+Just got to know that to create a new page in the website, all you have to do is creating a markdown in _posts.
+
+Cool... Isn't it?
+
